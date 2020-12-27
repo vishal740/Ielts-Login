@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: ;
+}
+
+p {
+    font-family: cursive;
+    padding: 20px;
+    margin: auto;
+    color: black;
+}
+
+h1 {
+    font-family: 'Concert One', cursive;
+    font-size: 28px;
+    display: inline-block;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
